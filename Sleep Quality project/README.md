@@ -13,7 +13,7 @@ A Data Analysis project exploring sleep duration, sleep-stage percentages, sleep
 - `02_Requirements/` – stakeholders, user stories, functional and non-functional requirements
 - `03_System_Analysis_Design/` – conceptual diagrams, architecture, wireframe
 - `04_Data_Documentation/` – data dictionary and cleaning log
-- `05_Power_BI/` – final PBIX, DAX measures, screenshots
+- `05_Power_BI/` – the Power BI file supplied for this update
 
 ## Important data-quality decision
 The Power Query script currently removes duplicates using `user_id`. Confirm the dataset grain before retaining this step. If multiple rows per user are valid observations, deduplicating by user_id will discard valid records. Preserve the original raw CSV and document the final decision.
@@ -42,3 +42,7 @@ Team Members:
 - Jana Waleed Mohamed
 - Tarek Mohamed Anwar
 - Youssef Mohamed Ibrahim
+
+
+## Power BI file used in this package
+The PBIX in `05_Power_BI/` is the file supplied separately as `Final Project v1.pbix`. The remaining documentation and supporting artifacts have been retained from the original package because the supplied PBIX model diagram identifies the same sleep/lifestyle subject area (including sleep data, age/gender, caffeine, bedtime phone/app use, and related factors). Open the PBIX in Power BI Desktop and verify the report page and visuals before final submission.

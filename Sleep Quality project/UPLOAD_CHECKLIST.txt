@@ -1,4 +1,4 @@
-DEPI UPLOAD CHECKLIST – SLEEP QUALITY PROJECT
+DEPI UPLOAD CHECKLIST – UPDATED POWER BI PROJECT
 Prepared 30 October 2026
 
 CURRENT MILESTONE: System Analysis & Design (target date shown in the timeline previously shared: 6 Nov 2026)
@@ -38,3 +38,8 @@ Team Members:
 - Jana Waleed Mohamed
 - Tarek Mohamed Anwar
 - Youssef Mohamed Ibrahim
+
+
+POWER BI FILE UPDATE
+[ ] Confirm `05_Power_BI/Final Project v1.pbix` opens correctly in Power BI Desktop.
+[ ] Verify that the report page contains the intended visuals and that all model tables/relationships are correct before submission.
