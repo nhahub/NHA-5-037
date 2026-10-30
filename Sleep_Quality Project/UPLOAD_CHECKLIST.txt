@@ -1,0 +1,40 @@
+DEPI UPLOAD CHECKLIST – SLEEP QUALITY PROJECT
+Prepared 30 October 2026
+
+CURRENT MILESTONE: System Analysis & Design (target date shown in the timeline previously shared: 6 Nov 2026)
+
+Suggested documents to prepare:
+[ ] Requirements_Specification.docx
+[ ] System_Analysis_Design.docx
+[ ] Data_Flow_Diagram.png
+[ ] Conceptual_Data_Model.png (validate against actual Power BI Model view)
+[ ] Use_Case_Overview.png
+[ ] Dashboard_Wireframe.png (concept only; does not lock the final page count)
+[ ] Data_Dictionary.xlsx
+[ ] Project_Planning_Management.docx (review with instructor)
+
+Planning flexibility:
+- Individual names and task assignments are not included; responsibilities are shared work areas.
+- Final dashboard page count is not fixed. Content areas may be combined, split, or reordered.
+
+Before upload:
+1. Confirm milestone-specific requirements with the instructor or official DEPI instructions.
+2. Verify the conceptual model against the actual Power BI Model view.
+3. Confirm whether user_id should be unique before retaining any deduplication by user_id.
+4. Complete the cleaning log with actual before/after counts and evidence.
+5. Preserve the original raw dataset unchanged.
+6. Update the local CSV source path in Power Query for refresh on another machine.
+7. Upload to the DEPI-provided company Organization repository if that is the official instruction.
+
+This is a practical draft package, not a guarantee that every listed artifact is mandatory for the current milestone.
+
+
+PROJECT TEAM
+Project Leader: Abdelrahman Ahmed Mohamed
+Instructor: Nouran Tarek El Zeky
+Team Members:
+- Habiba Hossam Hussein
+- Toka Sami Mohamed
+- Jana Waleed Mohamed
+- Tarek Mohamed Anwar
+- Youssef Mohamed Ibrahim
